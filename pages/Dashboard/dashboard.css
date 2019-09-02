@@ -1,0 +1,75 @@
+.navbar.navbar-expand-lg.navbar-light li a{
+    color: black !important;
+    font-size: 1.05rem;
+}
+
+.navbar {
+	font-family: 'Roboto', sans-serif;
+	background-color: #fdc857;
+}
+
+#dashboard-journals {
+	margin-top: 75px;
+	margin-bottom: 75px;
+}
+
+
+#navbarSupportedContent {
+	text-align: right;
+}
+
+#search {
+	max-width: 75%;
+}
+
+.card {
+	font-family: 'Roboto', sans-serif;
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
+
+@media screen and (min-width: 0px) and (max-width: 499px) {
+
+}
+
+@media screen and (min-width: 499px) and (max-width: 768px) {
+
+}
+
+@media screen and (min-width: 768px) and (max-width: 992px) {
+
+}
+
+@media screen and (min-width: 992px) and (max-width:1249px) {
+ 	#search {
+		max-width: 50%;
+	}
+}
+
+@media screen and (min-width: 1249px) and (max-width: 1499px) {
+  	#search {
+		max-width: 50%;
+	}
+}
+
+@media screen and (min-width: 1499px) and (max-width: 1749px) {
+ 	#search {
+		max-width: 50%;
+	}
+}
+
+@media screen and (min-width: 1749px) and (max-width: 2149px) {
+ 	#search {
+		max-width: 50%;
+	}
+}
+
+@media screen and (min-width: 2149px) {
+	 #search {
+		max-width: 50%;
+	}
+
+    html {
+        font-size: 16px;
+    }
+}

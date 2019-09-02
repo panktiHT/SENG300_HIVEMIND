@@ -1,0 +1,2 @@
+[16-Jun-2019 11:56:16 Europe/Berlin] 0
+[16-Jun-2019 11:56:31 Europe/Berlin] PHP Recoverable fatal error:  Object of class mysqli_result could not be converted to string in E:\xampp\htdocs\SENG300-HIVEMIND-master\pages\Dashboard\Editor\editor.php on line 14

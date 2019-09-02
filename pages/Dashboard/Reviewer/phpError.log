@@ -1,0 +1,9 @@
+[16-Jun-2019 11:57:22 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in E:\xampp\htdocs\SENG300-HIVEMIND-master\pages\Dashboard\Reviewer\reviewerHandler.php on line 3
+[16-Jun-2019 11:57:36 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in E:\xampp\htdocs\SENG300-HIVEMIND-master\pages\Dashboard\Reviewer\reviewerHandler.php on line 3
+[16-Jun-2019 11:57:39 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in E:\xampp\htdocs\SENG300-HIVEMIND-master\pages\Dashboard\Reviewer\reviewerHandler.php on line 3
+[16-Jun-2019 11:57:40 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in E:\xampp\htdocs\SENG300-HIVEMIND-master\pages\Dashboard\Reviewer\reviewerHandler.php on line 3
+[16-Jun-2019 11:57:51 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in E:\xampp\htdocs\SENG300-HIVEMIND-master\pages\Dashboard\Reviewer\reviewerHandler.php on line 3
+[16-Jun-2019 11:57:54 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in E:\xampp\htdocs\SENG300-HIVEMIND-master\pages\Dashboard\Reviewer\reviewerHandler.php on line 3
+[16-Jun-2019 11:58:14 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in E:\xampp\htdocs\SENG300-HIVEMIND-master\pages\Dashboard\Reviewer\reviewerHandler.php on line 3
+[16-Jun-2019 11:58:33 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in E:\xampp\htdocs\SENG300-HIVEMIND-master\pages\Dashboard\Reviewer\reviewerHandler.php on line 3
+[16-Jun-2019 16:12:33 Europe/Berlin] PHP Notice:  Undefined variable: user_privilege_array in E:\xampp\htdocs\SENG300-HIVEMIND-master\pages\Dashboard\Reviewer\reviewer.php on line 15

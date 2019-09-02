@@ -1,0 +1,448 @@
+html {
+    font-size: 16px;
+}
+
+p, li a {
+    font-size: 16px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.lead {
+    font-size: 1rem;
+}
+
+.navbar {
+    background: none;
+    border-color: #fdc857;
+    background-color: #fdc857;
+    font-family: 'Roboto', sans-serif;
+}
+
+.navbar.navbar-expand-md.navbar-light li a{
+    color: black !important;
+    font-size: 1.05rem;
+}
+
+#masthead {
+    height: 100vh;
+    background-color: #fdc857;
+    padding-top: 25vh;
+    padding-bottom: 25vh;
+}
+
+#masthead h1 {
+    font-family: 'Chivo', sans-serif;
+}
+
+#masthead h3 {
+    padding-bottom: 1.5vh;
+    font-family: 'Roboto', sans-serif;
+}
+
+#what {
+    padding-top: 5vh;
+    padding-bottom: 5vh;
+}
+
+#what-header {
+    padding-bottom: 5vh;
+    text-align: center;
+}
+
+#what h2 {
+    font-size: 1.75rem;
+    font-family: 'Chivo', sans-serif;
+    padding-bottom: 2.5vh;
+}
+
+
+#what-features {
+    padding-top: 2vh;
+}
+
+#what h3 {
+    margin-top: 1vh;
+    font-size: 1.5rem;
+    font-family: 'Chivo', sans-serif;
+}
+
+#one-stop {
+    padding-top: 5vh;
+    padding-bottom: 5vh;
+    background-color: #F5F5F5;
+}
+
+#one-stop-header {
+    text-align: center
+}
+
+#one-stop img {
+    margin-top: 2.5vh;
+    margin-bottom: 2.5vh;
+    height: 200px;
+    width: 200px;
+}
+
+#one-stop h2 {
+    font-size: 1.75rem;
+    font-family: 'Chivo', sans-serif;
+}
+
+#one-stop h5 {
+    font-size: 1.25rem;
+    font-family: 'Chivo', sans-serif;
+}
+
+#getStarted h3 {
+    font-size: 1.50rem;
+    font-family: 'Chivo', sans-serif;
+}
+
+#getStarted h5 {
+    font-size: 1.25rem;
+    font-family: 'Chivo', sans-serif;
+}
+
+#getStarted {
+    text-align: center;
+    padding-top: 5vh;
+    padding-bottom: 5vh;
+}
+
+.btn {
+    background-color: black;
+    color: white;
+    font-family: 'Chivo', sans-serif;
+}
+
+#footer-main h5 {
+    font-size: 1rem;
+}
+
+#footer-main {
+    background-color: #000000;
+    padding-top: 5vh;
+    padding-bottom: 2vh;
+}
+
+#footer-main h5 {
+    color: grey;
+}
+
+#footer-main a {
+    color: white;
+}
+
+#copyright {
+    color: white;
+}
+
+#navbar-footer {
+    font-size: 0.75rem;
+}
+
+#navbar-footer a {
+    font-size: 0.65rem;
+}
+
+@media screen and (min-width: 0px) and (max-width: 499px) {
+    h1 {
+        font-size: 1.8rem;
+    }
+
+    h2 {
+        font-size: 1.4rem;
+    }
+
+    h3 {
+        font-size: 1rem;
+    }
+
+    h4 {
+        font-size: 1rem;
+    }
+
+    h5 {
+        font-size: 1rem;
+    }
+
+    #navbar-footer {
+        font-size: 0.65rem;
+    }
+
+    #navbar-footer a {
+        font-size: 0.65rem;
+    }
+
+}
+
+@media screen and (min-width: 499px) and (max-width: 768px) {
+    h1 {
+        font-size: 2rem;
+    }
+
+    h2 {
+        font-size: 1.5rem;
+    }
+
+    h3 {
+        font-size: 1.25rem;
+    }
+
+    h4 {
+        font-size: 1rem;
+    }
+
+    h5 {
+        font-size: 1rem;
+    }
+
+}
+
+@media screen and (min-width: 768px) and (max-width: 999px) {
+    h1 {
+        font-size: 2.5rem;
+    }
+
+    h2 {
+        font-size: 1.85rem;
+    }
+
+    h3 {
+        font-size: 1.375rem;
+    }
+
+    h4 {
+        font-size: 1rem;
+        text-align: center;
+    }
+
+    #what-header {
+        padding-bottom: 3vh;
+        text-align: left;
+    }
+}
+
+@media screen and (min-width: 999px) and (max-width:1249px) {
+    #masthead {
+        padding: 26.25vh;
+        height: 100vh;
+        width: 100%;
+        background-color: #fdc857;
+    }
+
+    #masthead h1 {
+        font-size: 3.5rem;
+        font-family: 'Chivo', sans-serif;
+    }
+ 
+    #masthead h3 {
+        padding-bottom: 3vh;
+        font-family: 'Roboto', sans-serif;
+    }
+
+    #what {
+        padding-top: 10vh;
+        padding-bottom: 10vh;
+    }
+
+    #what-header {
+        padding-bottom: 3vh;
+        text-align: left;
+    }
+
+    #what h2 {
+        font-size: 2.5rem;
+        font-family: 'Chivo', sans-serif;
+    }
+
+    #one-stop {
+        padding-top: 10vh;
+        padding-bottom: 10vh;
+    }
+
+}
+
+@media screen and (min-width: 1249px) and (max-width: 1499px) {
+    #masthead {
+        padding: 26.25vh;
+        height: 75vh;
+        width: 100%;
+        background-color: #fdc857;
+        background-image: url("../resources/indexBackground.png");
+        background-position: top;
+        top: 0px;
+        left: 0px;
+        background-size: auto;
+        background-repeat: no-repeat;
+    }
+
+    #masthead h1 {
+        font-size: 3.5rem;
+        font-family: 'Chivo', sans-serif;
+    }
+ 
+    #masthead h3 {
+        padding-bottom: 3vh;
+        font-family: 'Roboto', sans-serif;
+    }
+
+    #what {
+        padding-top: 10vh;
+        padding-bottom: 10vh;
+    }
+
+    #what-header {
+        padding-bottom: 3vh;
+        text-align: left;
+    }
+
+    #what h2 {
+        font-size: 2.5rem;
+        font-family: 'Chivo', sans-serif;
+    }
+
+    #one-stop {
+        padding-top: 10vh;
+        padding-bottom: 10vh;
+    }
+}
+
+@media screen and (min-width: 1499px) and (max-width: 1749px) {
+    #masthead {
+        padding: 26.25vh;
+        height: 75vh;
+        width: 100%;
+        background-color: #fdc857;
+        background-image: url("../resources/indexBackground.png");
+        background-position: top;
+        top: 0px;
+        left: 0px;
+        background-size: auto;
+        background-repeat: no-repeat;
+    }
+
+    #masthead h1 {
+        font-size: 3.5rem;
+        font-family: 'Chivo', sans-serif;
+    }
+ 
+    #masthead h3 {
+        padding-bottom: 3vh;
+        font-family: 'Roboto', sans-serif;
+    }
+
+    #what {
+        padding-top: 10vh;
+        padding-bottom: 10vh;
+    }
+
+    #what-header {
+        padding-bottom: 3vh;
+        text-align: left;
+    }
+
+    #what h2 {
+        font-size: 2.5rem;
+        font-family: 'Chivo', sans-serif;
+    }
+
+    #one-stop {
+        padding-top: 10vh;
+        padding-bottom: 10vh;
+    }
+}
+
+@media screen and (min-width: 1749px) and (max-width: 2149px) {
+    #masthead {
+        padding: 26.25vh;
+        height: 75vh;
+        width: 100%;
+        background-color: #fdc857;
+        background-image: url("../resources/indexBackground.png");
+        background-position: top;
+        top: 0px;
+        left: 0px;
+        background-size: auto;
+        background-repeat: no-repeat;
+    }
+
+    #masthead h1 {
+        font-size: 3.5rem;
+        font-family: 'Chivo', sans-serif;
+    }
+ 
+    #masthead h3 {
+        padding-bottom: 3vh;
+        font-family: 'Roboto', sans-serif;
+    }
+
+    #what {
+        padding-top: 10vh;
+        padding-bottom: 10vh;
+    }
+
+    #what-header {
+        padding-bottom: 3vh;
+        text-align: left;
+    }
+
+    #what h2 {
+        font-size: 2.5rem;
+        font-family: 'Chivo', sans-serif;
+    }
+
+    #one-stop {
+        padding-top: 10vh;
+        padding-bottom: 10vh;
+    }
+}
+
+@media screen and (min-width: 2149px) {
+    #masthead {
+        padding: 26.25vh;
+        height: 75vh;
+        width: 100%;
+        background-color: #fdc857;
+        background-image: url("../resources/indexBackground.png");
+        background-position: top;
+        top: 0px;
+        left: 0px;
+        background-size: auto;
+        background-repeat: no-repeat;
+    }
+
+    #masthead h1 {
+        font-size: 3.5rem;
+        font-family: 'Chivo', sans-serif;
+    }
+ 
+    #masthead h3 {
+        padding-bottom: 3vh;
+        font-family: 'Roboto', sans-serif;
+    }
+
+    #what {
+        padding-top: 10vh;
+        padding-bottom: 10vh;
+    }
+
+    #what-header {
+        padding-bottom: 3vh;
+        text-align: left;
+    }
+
+    #what h2 {
+        font-size: 2.5rem;
+        font-family: 'Chivo', sans-serif;
+    }
+
+    #one-stop {
+        padding-top: 10vh;
+        padding-bottom: 10vh;
+    }
+
+    html {
+        font-size: 16px;
+    }
+}

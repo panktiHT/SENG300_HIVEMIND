@@ -1,0 +1,1 @@
+[16-Jun-2019 18:10:48 Europe/Berlin] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'journal' in E:\xampp\htdocs\SENG300-HIVEMIND-FredReinink-EditorCreateReviewers\pages\userHandler.php on line 14

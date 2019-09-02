@@ -1,0 +1,156 @@
+@media screen and (min-width: 0px) and (max-width: 549px) {
+	h1 {
+        font-size: 1.8rem;
+        text-align: center;
+    }
+
+    h2 {
+        font-size: 1.4rem;
+        text-align: center;
+    }
+
+    h3 {
+        font-size: 1rem;
+        text-align: center;
+    }
+
+    h4 {
+        font-size: 1rem;
+        text-align: center;
+    }
+
+    h5 {
+        font-size: 1rem;
+    }
+
+	.form-signin {
+		max-width: 600px;
+		margin: 0 auto;
+		padding: 25px;
+		background-color: white;
+	}
+
+	.form-signin .temp-logo-holder {
+		padding-top: 20px;
+	}
+
+	.form-signin p {
+		text-align: center;
+		padding-bottom: 15px;
+	}
+
+	.form-signin-heading {
+		padding: 15px;
+	}
+
+	.form-signin .form-signin-heading, .form-signin .checkbox {
+		padding-bottom: 15px;
+	}
+
+	.form-signin input[type="text"], .form-signin input[type="password"] {
+		margin-bottom: 20px;
+	}
+
+	.form-signin .form-control {
+		padding: 12.5px;
+	}
+
+	#underLogin {
+		padding-left: 25px;
+		margin: 0 auto;
+		max-width: 600px;
+	}
+}
+
+@media screen and (min-width: 550px) {
+    .wrapper {
+		padding-top: 15vh;
+	}
+
+	.form-signin {
+		max-width: 600px;
+		margin: 0 auto;
+		padding: 15px 40px 50px;
+		border: 1px solid #e5e5e5;
+		border-radius: 10px;
+		background-color: white;
+	}
+
+	.form-signin .temp-logo-holder {
+		padding-top: 20px;
+	}
+
+	.form-signin p {
+		text-align: center;
+		padding-bottom: 15px;
+	}
+
+	.form-signin-heading {
+		padding: 15px;
+	}
+
+	.form-signin .form-signin-heading, .form-signin .checkbox {
+		padding-bottom: 15px;
+	}
+
+	.form-signin input[type="text"], .form-signin input[type="password"] {
+		margin-bottom: 20px;
+	}
+
+	.form-signin .form-control {
+		padding: 12.5px;
+	}
+
+	#underLogin {
+		padding-top: 0 !important;
+		margin: 0 auto;
+		max-width: 600px;
+		padding-bottom: 15vh !important;
+	}
+
+	h1 {
+        font-size: 2rem;
+        text-align: center;
+    }
+
+    h2 {
+        font-size: 1.5rem;
+        text-align: center;
+    }
+
+    h3 {
+        font-size: 1.25rem;
+        text-align: center;
+    }
+
+    h4 {
+        font-size: 1rem;
+        text-align: center;
+    }
+
+    h5 {
+        font-size: 1rem;
+    }
+}
+
+@media screen and (min-width: 768px) {
+	h1 {
+        font-size: 2.5rem;
+        text-align: center;
+    }
+
+    h2 {
+        font-size: 1.85rem;
+        text-align: center;
+    }
+
+    h3 {
+        font-size: 1.375rem;
+        text-align: center;
+    }
+
+    h4 {
+        font-size: 1rem;
+        text-align: center;
+    }
+}
